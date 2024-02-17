@@ -1,1 +1,3 @@
-We are working on a website that will be used to donate and contribute to helping the poor in various countries where it's very difficult reach.
+This is a basic website built using AI that showcases how we can use Drones to supply resources from warehouses to Remote locations such as War-Hit zones.
+For Website Click [Here](https://mediaid-drone-deliverybpwfe3vldi.codedesign.app/) or use link 
+https://mediaid-drone-deliverybpwfe3vldi.codedesign.app/
